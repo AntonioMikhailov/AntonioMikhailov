@@ -1,7 +1,4 @@
-
-### Hi there 👋
-  <h1>Привет мир 4 +1 - Main</h1>
-**AntonioMikhailov/AntonioMikhailov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
  
 
 <!-- Бейджи создаем с https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR> -->
