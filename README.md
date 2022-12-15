@@ -14,5 +14,5 @@ __Мой стек:__
 - JavaScript(ES6+), React (Hooks, Redux), TypeScript (React);
 - HTML, CSS (SCSS, LESS), FlexBox (Grid);
 - GULP (WebPack), Git, GitHub
-- редактор кода VS Code
+- редактор кода: VS Code
 
